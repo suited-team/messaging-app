@@ -157,7 +157,7 @@ button {
       background-color: whiteSmoke;
   } */
   html { 
-    background: url(https://image.freepik.com/vecteurs-libre/fond-bleu-fonce-hexagonal-scientifique-futuriste-espace-pour-texte_67515-497.jpg) no-repeat center center fixed; 
+    background-image: url("https://coloredbrain.com/wp-content/uploads/2016/07/login-background.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
