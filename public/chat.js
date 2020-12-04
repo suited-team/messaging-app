@@ -6,7 +6,7 @@ const roomMessage = document.querySelector('.room-message');
 const users = document.querySelector('.users');
 
 //Socket server URL
-const socket = io.connect('https://a-chatting-app.herokuapp.com');
+const socket = io.connect('https://irada-messaging.herokuapp.com');
 
 //Fetch URL Params from URL
 const queryString = window.location.search;
